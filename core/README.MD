@@ -1,0 +1,2 @@
+- coverage run --omit='_/venv/_ manage.py test
+- pip install django-cors-headers
